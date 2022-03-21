@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm Josué Lustosa</h1>
-<h2 align="center">A Frontend Developer and Web Designer from Brazil</h2>
+<h1 align="center">Hi 👋, I'm Josué Lustosa from Brazilian Amazon 🇧🇷</h1>
+<h2 align="center">A front end student and developer 👨‍💻, bachelor in Information Systems (2021) 🎓 and passionate for tecnology 💻 and soccer ⚽.</h2>
 <hr>
-<h3 align="center">About Me</h3>
-<p align="center">🌱 I’m currently learning <strong>JavaScript (avanced), Vue.js, UX, Scrum and English (conversation)</strong></p>
-<p align="center">📫 How to reach me <strong>www.beacons.ai/josuelustosajob</strong></p>
-<p align="center">😊 Fun fact <strong>Football has always been my passion and my hobby is to study and practice some language, framework or technology.</strong></p> 
+<h3 align="center">About Me:</h3>
+<p align="center">🌱 I’m currently learning: <strong>JavaScript (avanced), Vue.js, UX, Scrum and English (conversation)</strong></p>
+<p align="center">📫 How to reach me: <strong>www.beacons.ai/josuelustosajob</strong></p>
+<p align="center">😊 Fun facts: <strong>Soccer has always been my passion and my hobby is to study and practice some language, framework or technology.</strong></p>
+<p align="center"> 🏡 My home: <strong>Manaus, Brazil</strong></p>
 <br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
