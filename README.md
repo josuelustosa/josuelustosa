@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Josué Lustosa from Brazilian Amazon 🇧🇷</h1>
-<h2 align="center">A front end student and developer 👨‍💻, bachelor in Information Systems (2021) 🎓 and passionate for tecnology 💻 and soccer ⚽.</h2>
-<hr>
+<h2 align="center">A front end student and developer 👨‍💻, bachelor of Information Systems (2021) 🎓 and passionate for tecnology 💻 and soccer ⚽.</h2>
 <h3 align="center">About Me:</h3>
-<p align="center">🌱 I’m currently learning: <strong>JavaScript Algorithms and Data Structures (at freeCodeCamp 🔥), Vue.js, UX, Scrum and English (conversation)</strong></p>
+<p align="center">🌱 I’m currently learning: <strong>JavaScript Algorithms and Data Structures (at freeCodeCamp 🔥), Node.js, Vue.js, Scrum and English (conversation)</strong></p>
 <p align="center">📫 How to reach me: <strong>www.beacons.ai/josuelustosajob</strong></p>
 <p align="center">😊 Fun facts: <strong>Soccer has always been my passion and my hobby is to study and practice some language, framework or technology.</strong></p>
 <p align="center"> 🏡 My home: <strong>Manaus, Brazil</strong></p>
