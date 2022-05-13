@@ -1,24 +1,25 @@
-<h1 align="center">Hi 👋, I'm Josué Lustosa from Brazilian Amazon 🇧🇷</h1>
-<h2 align="center">A front end student and developer 👨‍💻, bachelor of Information Systems (2021) 🎓 and passionate for tecnology 💻 and soccer ⚽.</h2>
-<h3 align="center">About Me:</h3>
-<p align="center">🌱 I’m currently learning: <strong>JavaScript Algorithms and Data Structures (at freeCodeCamp 🔥), Node.js, Vue.js, Scrum and English (conversation)</strong></p>
-<p align="center">📫 How to reach me: <strong>www.beacons.ai/josuelustosajob</strong></p>
-<p align="center">😊 Fun facts: <strong>Soccer has always been my passion and my hobby is to study and practice some language, framework or technology.</strong></p>
-<p align="center"> 🏡 My home: <strong>Manaus, Brazil</strong></p>
+# :wave: Olá, Mundo!
+> Me chamo Josué Lustosa, tenho 21 anos e sou natural e morador do lugar mais quente do mundo (Manaus). Atuo como Desenvolvedor Front-end fazendo uso principalmente das seguintes stacks: ``JavaScript``, ``TypeScript``, ``React.js`` e ``Node.js``.
 <br>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-	<a href="https://linkedin.com/in/josuelustosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josuelustosa" height="30" width="40" /></a>
-	<a href="https://www.behance.net/josuelustosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="josuelustosa" height="30" width="40" /></a>
-</p>
+
+### Meus contatos
+:globe_with_meridians: [Perfil do LinkedIn](https://www.linkedin.com/in/josue-lustosa/) <br>
+:octopus: [Perfil do GitHub](https://github.com/josuelustosadev) <br>
+:camera: [@ojosuefilho](https://instagram.com/ojosuefilho) <br>
+:mailbox_with_mail: josuelustosa.job@gmail.com
 <br>
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a></p>
 <br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=josuelustosadev&show_icons=true&locale=en&layout=compact" alt="josuelustosadev" />
-</p>
+
+### Plataformas de Ensino
+:rocket: [Perfil na Rockeseat](https://app.rocketseat.com.br/me/josuelustosa) <br>
+:fire: [Perfil na freeCodeCamp](https://www.freecodecamp.org/josuelustosa) <br>
+:globe_with_meridians: [Perfil na DIO](https://web.dio.me/users/josuelustosa_job)
 <br>
-<hr>
-<p align="center">
-    <strong>Generated by <a href="https://github.com/rahuldkjain/github-profile-readme-generator" target="blank">rahuldkjain</a> and Adapted by <a href="https://github.com/rahuldkjain/github-profile-readme-generator" target="blank"> josuelustosadev</a></strong>
-</p>
+<br>
+
+### Linguagens que mais utilizo
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=josuelustosadev&show_icons=true&locale=en&layout=compact" alt="josuelustosadev" />
+<br>
+<br>
+
+> :hammer_and_wrench: Este Overview é temporário e está em desenvolvimento por **[josuelustosadev](https://github.com/josuelustosadev/)**.
