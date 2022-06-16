@@ -3,11 +3,11 @@
 <br>
 
 ## Meus contatos
-### :globe_with_meridians: [LinkedIn](https://www.linkedin.com/in/josue-lustosa/) | :camera: [@ojosuefilho](https://instagram.com/ojosuefilho) | :mailbox_with_mail: josuelustosa.job@gmail.com
+### :link: [LinkedIn](https://www.linkedin.com/in/josue-lustosa/) | :camera: [@ojosuefilho](https://instagram.com/ojosuefilho) | :email: josuelustosa.job@gmail.com
 <br>
 
-## Minhas Plataformas de Aprendizagem
-### :computer: [Perfil na Alura](https://cursos.alura.com.br/user/josuelustosa) | :rocket: [Perfil na Rockeseat](https://app.rocketseat.com.br/me/josuelustosa) | :fire: [Perfil na freeCodeCamp](https://www.freecodecamp.org/josuelustosa) | :globe_with_meridians: [Perfil na DIO](https://web.dio.me/users/josuelustosa_job)
+## Minhas Plataformas de Aprendizagem (Perfil)
+### :milky_way: [Alura](https://cursos.alura.com.br/user/josuelustosa) | :rocket: [Rockeseat](https://app.rocketseat.com.br/me/josuelustosa) | :globe_with_meridians: [DIO](https://web.dio.me/users/josuelustosa_job) | :fire: [freeCodeCamp](https://www.freecodecamp.org/josuelustosa) | [:earth_americas: Google Developers](https://g.dev/josuelustosa)
 <br>
 
 ## Linguagens que mais utilizo
