@@ -1,5 +1,5 @@
 # :wave: Hello World!
-> Tenho 21 anos, sou Bacharel em Sistemas de Informação desde 2021 e atuo com desenvolvimento de soluções web há mais de dois anos, fazendo uso, principalmente, das seguintes tecnologias: JavaScript, TypeScript, React.js e Node.js. Conheça-me melhor por meio dos contatos abaixo ou acesse: **https://josuelustosa.github.io/links/**.
+> Tenho 22 anos, sou Bacharel em Sistemas de Informação desde 2021 e atuo com desenvolvimento de soluções web há mais de dois anos, fazendo uso, principalmente, das seguintes tecnologias: JavaScript, TypeScript, React.js e Node.js. Conheça-me melhor por meio dos contatos abaixo ou acesse: **https://josuelustosa.github.io/links/**.
 
 
 ## 🌐 Contacts
