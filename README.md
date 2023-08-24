@@ -1,5 +1,4 @@
 <div align="center">
-    <!-- <img src="logo-josue-lustosa.png" height="75" alt="Josué Lustosa Logo"/> -->
     <img src="favicon-josuelustosa.svg" height="120" alt="Josué Lustosa Logo"/>
 </div>
 
@@ -22,13 +21,16 @@
 
 ###
 
-> Tenho 22 anos, sou Bacharel em Sistemas de Informação desde 2021 e atuo com desenvolvimento de soluções web há mais de dois anos, fazendo uso, principalmente, das seguintes tecnologias: JavaScript, TypeScript, React.js e Node.js. Conheça-me melhor por meio dos contatos abaixo ou acesse: **https://josuelustosa.github.io/links/**
+<p align="center">
+    <i>Bacharel em Sistemas de Informação desde 2021, atuo com desenvolvimento de soluções web há cerca de três anos, fazendo uso, principalmente, das seguintes tecnologias: JavaScript, TypeScript, React.js e Node.js. Conheça-me melhor por meio dos contatos abaixo ou acesse: <strong>https://josuelustosa.github.io/links/</strong></i>.
+</p>
 
 <hr />
 
 ###
+</br>
 
-<h2 align="left">💻 Linguagens e Ferramentas</h2>
+<h2 align="center">💻 Linguagens e Ferramentas</h2>
 
 ###
 
@@ -53,34 +55,38 @@
 </div>
 
 ###
+</br>
 
-<h2 align="left">📊 Estatísticas GitHub</h2>
+<h2 align="center">📊 Estatísticas GitHub</h2>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=josuelustosa&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=slateorange&locale=pt-br&hide_border=true&order=1" height="160" alt="stats graph"/>
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josuelustosa&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=slateorange&hide_border=true&order=2" height="160" alt="languages graph"/> -->
+<!-- Linguagens mais utilizadas -->
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josuelustosa&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=slateorange&hide_border=true&order=2" height="160" alt="languages graph"/> -->
   <img src="https://streak-stats.demolab.com?user=josuelustosa&locale=pt-br&mode=weekly&theme=slateorange&hide_border=true&border_radius=5&date_format=M j[, Y]&order=3" height="160" alt="streak graph"/>
 </div>
 
-<!-- ###
+###
+</br>
 
-<h2 align="left">🐍 Contributions</h2>
+<h2 align="center">🏆 Troféus GitHub</h2>
+
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=josuelustosa&theme=onedark&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+###
+</br>
+
+<h2 align="center">🐍 Contribuições</h2>
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/josuelustosa/josuelustosa/output/snake.svg" alt="Snake animation" />
-
-### -->
-
-###
-
-<h2 align="left">🏆 Troféus GitHub</h2>
-
-![](https://github-profile-trophy.vercel.app/?username=josuelustosa&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+<div align="center">
+    <img src="https://raw.githubusercontent.com/josuelustosa/josuelustosa/output/snake.svg" alt="Snake animation" align="center" />
+</div>
 
 ###
 
