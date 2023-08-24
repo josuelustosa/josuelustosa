@@ -62,10 +62,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josuelustosa&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=slateorange&locale=pt-br&hide_border=true&order=1" height="160" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=josuelustosa&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=slateorange&locale=en&hide_border=true&order=1" height="160" alt="stats graph" />
 <!-- Linguagens mais utilizadas -->
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josuelustosa&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=slateorange&hide_border=true&order=2" height="160" alt="languages graph"/> -->
-  <img src="https://streak-stats.demolab.com?user=josuelustosa&locale=pt-br&mode=weekly&theme=slateorange&hide_border=true&border_radius=5&date_format=M j[, Y]&order=3" height="160" alt="streak graph"/>
+  <img src="https://streak-stats.demolab.com?user=josuelustosa&locale=en&mode=weekly&theme=slateorange&hide_border=true&border_radius=5&date_format=M j[, Y]&order=3" height="160" alt="streak graph"/>
 </div>
 
 ###
