@@ -4,26 +4,26 @@
 
 <h1 align="center">👋 Hello World!</h1>
 
-<div align="center">
-  <a href="https://linkedin.com/in/josue-lustosa" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo"  />
-  </a>
-  <a href="https://instagram.com/josuelustosa" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="instagram logo"  />
-  </a>
-  <a href="mailto:josuelustosa.job@gmail.com?subject=Ol%C3%A1,%20Josu%C3%A9%20Lustosa" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="gmail logo"  />
-  </a>
-  <a href="https://www.behance.net/josuelustosa" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="behance logo"  />
-  </a>
-</div>
-
 ###
 
 <p align="center">
     <i>Bacharel em Sistemas de Informação desde 2021, atuo com desenvolvimento de soluções web há cerca de três anos, fazendo uso, principalmente, das seguintes tecnologias: JavaScript, TypeScript, React.js e Node.js. Conheça-me melhor por meio dos contatos abaixo ou acesse: <strong>https://josuelustosa.github.io/links/</strong></i>.
 </p>
+
+<div align="center">
+  <a href="https://linkedin.com/in/josue-lustosa" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo"/>
+  </a>
+  <a href="https://instagram.com/josuelustosa" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="instagram logo"/>
+  </a>
+  <a href="mailto:josuelustosa.job@gmail.com?subject=Ol%C3%A1,%20Josu%C3%A9%20Lustosa" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="gmail logo"/>
+  </a>
+  <a href="https://www.behance.net/josuelustosa" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="behance logo"/>
+  </a>
+</div>
 
 <hr />
 
@@ -74,7 +74,7 @@
 <h2 align="center">🏆 Troféus GitHub</h2>
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=josuelustosa&theme=onedark&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=josuelustosa&theme=onedark&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 ###
@@ -85,11 +85,11 @@
 ###
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/josuelustosa/josuelustosa/output/snake.svg" alt="Snake animation" align="center" />
+    <img src="https://raw.githubusercontent.com/josuelustosa/josuelustosa/output/snake.svg" alt="Snake animation" align="center"/>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=josuelustosa.josuelustosa&left_color=dimgray&right_color=orangered"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=josuelustosa.josuelustosa&left_color=dimgray&right_color=orangered"/>
 </div>
