@@ -1,23 +1,89 @@
-# :wave: Hello World!
-> Tenho 22 anos, sou Bacharel em Sistemas de Informação desde 2021 e atuo com desenvolvimento de soluções web há mais de dois anos, fazendo uso, principalmente, das seguintes tecnologias: JavaScript, TypeScript, React.js e Node.js. Conheça-me melhor por meio dos contatos abaixo ou acesse: **https://josuelustosa.github.io/links/**.
+<div align="center">
+    <!-- <img src="logo-josue-lustosa.png" height="75" alt="Josué Lustosa Logo"/> -->
+    <img src="favicon-josuelustosa.svg" height="120" alt="Josué Lustosa Logo"/>
+</div>
 
+<h1 align="center">👋 Hello World!</h1>
 
-## 🌐 Contacts
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josuelustosa.job@gmail.com?subject=Ol%C3%A1,%20Josu%C3%A9%20Lustosa)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ojosuefilho)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josue-lustosa)
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/josuelustosa)
+<div align="center">
+  <a href="https://linkedin.com/in/josue-lustosa" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo"  />
+  </a>
+  <a href="https://instagram.com/josuelustosa" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="instagram logo"  />
+  </a>
+  <a href="mailto:josuelustosa.job@gmail.com?subject=Ol%C3%A1,%20Josu%C3%A9%20Lustosa" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="gmail logo"  />
+  </a>
+  <a href="https://www.behance.net/josuelustosa" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="behance logo"  />
+  </a>
+</div>
 
-## 💻 Hard Skills
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+###
 
-<!-- ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=josuelustosa&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=josuelustosa&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api?username=josuelustosa&theme=dark&hide_border=true&include_all_commits=false&count_private=false) -->
+> Tenho 22 anos, sou Bacharel em Sistemas de Informação desde 2021 e atuo com desenvolvimento de soluções web há mais de dois anos, fazendo uso, principalmente, das seguintes tecnologias: JavaScript, TypeScript, React.js e Node.js. Conheça-me melhor por meio dos contatos abaixo ou acesse: **https://josuelustosa.github.io/links/**
 
-## 🏆 GitHub Trophies
+<hr />
+
+###
+
+<h2 align="left">💻 Linguagens e Ferramentas</h2>
+
+###
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=js" height="36" alt="javascript logo"/>
+    <img src="https://skillicons.dev/icons?i=ts" height="36" alt="typescript logo"/>
+    <img src="https://skillicons.dev/icons?i=react" height="36" alt="react logo"/>
+    <img src="https://skillicons.dev/icons?i=html" height="36" alt="html5 logo"/>
+    <img src="https://skillicons.dev/icons?i=css" height="36" alt="css3 logo"/>
+    <img src="https://skillicons.dev/icons?i=bootstrap" height="36" alt="bootstrap logo"/>
+    <img src="https://skillicons.dev/icons?i=tailwind" height="36" alt="tailwindcss logo"/>
+    <img src="https://skillicons.dev/icons?i=materialui" height="36" alt="materialui logo"/>
+    <img src="https://skillicons.dev/icons?i=styledcomponents" height="36" alt="styledcomponents logo"/>
+    <img src="https://skillicons.dev/icons?i=git" height="36" alt="git logo"/>
+    <img src="https://skillicons.dev/icons?i=github" height="36" alt="github logo"/>
+    <img src="https://skillicons.dev/icons?i=gitlab" height="36" alt="gitlab logo"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="nodejs logo" title="Nodejs"/>
+    <img src="https://skillicons.dev/icons?i=express" height="36" alt="express logo" title="Express"/>
+    <img src="https://cdn.simpleicons.org/npm/CB3837" height="36" alt="npm logo" title="NPM"/>
+    <img src="https://skillicons.dev/icons?i=figma" height="36" alt="figma logo" title="Figma"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="36" alt="jira logo" title="Jira"/>
+</div>
+
+###
+
+<h2 align="left">📊 Estatísticas GitHub</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=josuelustosa&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=slateorange&locale=pt-br&hide_border=true&order=1" height="160" alt="stats graph"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josuelustosa&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=slateorange&hide_border=true&order=2" height="160" alt="languages graph"/> -->
+  <img src="https://streak-stats.demolab.com?user=josuelustosa&locale=pt-br&mode=weekly&theme=slateorange&hide_border=true&border_radius=5&date_format=M j[, Y]&order=3" height="160" alt="streak graph"/>
+</div>
+
+<!-- ###
+
+<h2 align="left">🐍 Contributions</h2>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/josuelustosa/josuelustosa/output/snake.svg" alt="Snake animation" />
+
+### -->
+
+###
+
+<h2 align="left">🏆 Troféus GitHub</h2>
+
 ![](https://github-profile-trophy.vercel.app/?username=josuelustosa&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
-<!-- --- -->
-<!-- [![](https://visitcount.itsvg.in/api?id=josuelustosa&icon=5&color=12)](https://visitcount.itsvg.in) -->
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=josuelustosa.josuelustosa&left_color=dimgray&right_color=orangered"  />
+</div>
