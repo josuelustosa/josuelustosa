@@ -2,14 +2,17 @@
     <img src="favicon-josuelustosa.svg" height="120" alt="Josué Lustosa Logo"/>
 </div>
 
-<h1 align="center">👋 Hello World!</h1>
+<h1 align="center">👋 Hello World! I'm Josué Lustosa from 🇧🇷</h1>
 
 ###
 
 <p align="center">
-    <i>Bacharel em Sistemas de Informação desde 2021, atuo com desenvolvimento de soluções web há cerca de três anos, fazendo uso, principalmente, das seguintes tecnologias: JavaScript, TypeScript, React.js e Node.js. Conheça-me melhor por meio dos contatos abaixo ou acesse: <strong>https://josuelustosa.github.io/links/</strong></i>.
+    <i>Bacharel em Sistemas de Informação desde 2021, atuo com desenvolvimento de soluções web há cerca de quatro anos, me dedicando à criação de interfaces modernas, funcionais (UI) e focadas na experiência do usuário (UX). Trabalho principalmente com React, JavaScript/TypeScript, Material-UI, Styled Components, Vite, Git (GitLab/Azure DevOps) e integração com APIs REST. Além disso, tenho familiaridade com metodologias ágeis, especialmente Scrum com Jira.
 </p>
-
+<p align="center">
+    Deseja me conhecer melhor? Espero por você aqui: <strong>https://josuelustosa.github.io/links/</strong></i>.
+</p>
+<!--
 <div align="center">
   <a href="https://linkedin.com/in/josue-lustosa" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo"/>
@@ -24,64 +27,34 @@
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="behance logo"/>
   </a>
 </div>
-
-<hr />
-
-###
-</br>
-
+-->
+<br/>
 <h2 align="center">💻 Linguagens e Ferramentas</h2>
 
 ###
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=js" height="36" alt="javascript logo"/>
-    <img src="https://skillicons.dev/icons?i=ts" height="36" alt="typescript logo"/>
-    <img src="https://skillicons.dev/icons?i=react" height="36" alt="react logo"/>
-    <img src="https://skillicons.dev/icons?i=html" height="36" alt="html5 logo"/>
-    <img src="https://skillicons.dev/icons?i=css" height="36" alt="css3 logo"/>
-    <img src="https://skillicons.dev/icons?i=bootstrap" height="36" alt="bootstrap logo"/>
-    <img src="https://skillicons.dev/icons?i=tailwind" height="36" alt="tailwindcss logo"/>
-    <img src="https://skillicons.dev/icons?i=materialui" height="36" alt="materialui logo"/>
-    <img src="https://skillicons.dev/icons?i=styledcomponents" height="36" alt="styledcomponents logo"/>
-    <img src="https://skillicons.dev/icons?i=git" height="36" alt="git logo"/>
-    <img src="https://skillicons.dev/icons?i=github" height="36" alt="github logo"/>
-    <img src="https://skillicons.dev/icons?i=gitlab" height="36" alt="gitlab logo"/>
+    <img src="https://skillicons.dev/icons?i=js" height="36" alt="javascript logo" title="Javascript"/>
+    <img src="https://skillicons.dev/icons?i=ts" height="36" alt="typescript logo" title="Typescript"/>
+    <img src="https://skillicons.dev/icons?i=react" height="36" alt="react logo" title="React"/>
+    <img src="https://skillicons.dev/icons?i=nextjs" height="36" alt="nextjs logo" title="Nextjs"/>
+    <img src="https://skillicons.dev/icons?i=html" height="36" alt="html5 logo" title="HTML"/>
+    <img src="https://skillicons.dev/icons?i=css" height="36" alt="css3 logo" title="CSS"/>
+    <img src="https://skillicons.dev/icons?i=bootstrap" height="36" alt="bootstrap logo" title="Bootstrap"/>
+    <img src="https://skillicons.dev/icons?i=tailwind" height="36" alt="tailwindcss logo" title="Tailwind CSS"/>
+    <img src="https://skillicons.dev/icons?i=materialui" height="36" alt="materialui logo" title="MUI"/>
+    <img src="https://skillicons.dev/icons?i=styledcomponents" height="36" alt="styledcomponents logo" title="styled-components"/>
+    <img src="https://skillicons.dev/icons?i=git" height="36" alt="git logo" title="Git"/>
+    <img src="https://skillicons.dev/icons?i=github" height="36" alt="github logo" title="GitHub"/>
+    <img src="https://skillicons.dev/icons?i=gitlab" height="36" alt="gitlab logo" title="GitLab"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="nodejs logo" title="Nodejs"/>
     <img src="https://skillicons.dev/icons?i=express" height="36" alt="express logo" title="Express"/>
-    <img src="https://cdn.simpleicons.org/npm/CB3837" height="36" alt="npm logo" title="NPM"/>
+    <img src="https://skillicons.dev/icons?i=docker" height="36" alt="docker logo" title="Docker"/>
     <img src="https://skillicons.dev/icons?i=figma" height="36" alt="figma logo" title="Figma"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="36" alt="jira logo" title="Jira"/>
 </div>
 
-###
-</br>
-
-<h2 align="center">📊 Estatísticas GitHub</h2>
-
-###
-
-<div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=josuelustosa&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=slateorange&locale=en&hide_border=true&order=1" height="160" alt="stats graph" /> -->
-
-<!-- Linguagens mais utilizadas -->
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josuelustosa&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=slateorange&hide_border=true&order=2" height="160" alt="languages graph"/> -->
-
-  <img src="https://streak-stats.demolab.com?user=josuelustosa&locale=en&mode=weekly&theme=slateorange&hide_border=true&border_radius=5&date_format=M j[, Y]&order=3" height="160" alt="streak graph"/>
-</div>
-
-###
-</br>
-
-<h2 align="center">🏆 Troféus GitHub</h2>
-
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=josuelustosa&theme=onedark&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
-###
-</br>
-
+<br/>
 <h2 align="center">🐍 Contribuições</h2>
 
 ###
