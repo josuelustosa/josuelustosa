@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/josuelustosa.job%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josuelustosa.job@gmail.com)
 
 <p align="left">
-    Desenvolvedor de Software e Bacharel em Sistemas de Informação (2021), com +3 anos de experiência no desenvolvimento de interfaces modernas, escaláveis e orientadas à experiência do usuário, utilizando React.js, JavaScript e TypeScript. Atuo no consumo de APIs REST e colaboração no back-end com Node.js, aplicando metodologias ágeis (Scrum) e boas práticas de versionamento com Git.
+    Desenvolvedor de Software e Bacharel em Sistemas de Informação (2021), com +4 anos de experiência no desenvolvimento de interfaces modernas, escaláveis e orientadas à experiência do usuário, utilizando React.js, JavaScript e TypeScript. Atuo no consumo de APIs REST e colaboração no back-end com Node.js, aplicando metodologias ágeis (Scrum) e boas práticas de versionamento com Git.
 </p>
 <p>
     🎯 Foco em Front-end com React (Vite/Next), atuando de forma pontual em demandas Full Stack.
