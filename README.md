@@ -1,36 +1,78 @@
-<h1 align="left">Hello World! I'm Josué Lustosa 👋</h1>
+<div align="center">
+  <img src="./favicon-josuelustosa.svg" width="90" alt="JL — Josué Lustosa"/>
 
-[![LinkedIn](https://img.shields.io/badge/in%2Fjosue--lustosa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josue-lustosa)
-[![Gmail](https://img.shields.io/badge/josuelustosa.job%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josuelustosa.job@gmail.com)
+  <h1>👋 Olá, mundo! Sou o Josué Lustosa...</h1>
 
-<p align="left">
-    Desenvolvedor de Software e Bacharel em Sistemas de Informação (2021), com +4 anos de experiência no desenvolvimento de interfaces modernas, escaláveis e orientadas à experiência do usuário, utilizando React.js, JavaScript e TypeScript. Atuo no consumo de APIs REST e colaboração no back-end com Node.js, aplicando metodologias ágeis (Scrum) e boas práticas de versionamento com Git.
-</p>
-<p>
-    🎯 Foco em Front-end com React (Vite/Next), atuando de forma pontual em demandas Full Stack.
-</p>
+  <h2>Desenvolvedor de Software - Web & Mobile</h2>
 
-<br/>
+[![Email](https://img.shields.io/badge/josuelustosa%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:josuelustosa@gmail.com)
+[![Todos os Links](https://img.shields.io/badge/%F0%9F%8C%90%20Todos%20os%20Links-101113?style=for-the-badge)](https://links-josue-lustosa.vercel.app/)
 
-<h2 align="left">💻 Tecnologias</h2>
-
-<div>
-    <p align="left">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,next,vite,typescript,javascript,html,css,tailwind,styledcomponents,materialui,bootstrap,vue,angular,figma,git,github,gitlab,azure,nodejs,express,docker,java,spring,mysql" />
-      </a>
-    </p>
 </div>
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="36" alt="jira logo" title="Jira"/> -->
+
+<p align="center">
+  Desenvolvedor de Software e Bacharel em Sistemas de Informação (2021), com mais de 4 anos de experiência no desenvolvimento de aplicações <strong>Web & Mobile</strong>, com foco em performance, escalabilidade e experiência do usuário.
+</p>
+
+<p align="center">
+  Atuo com <strong>React, Next.js, React Native, TypeScript e Node.js</strong>, com experiência em interfaces componentizadas, integração com <strong>APIs REST</strong> e soluções <strong>Full Stack</strong>. Tenho familiaridade com metodologias ágeis e ambientes colaborativos, contribuindo para a entrega de soluções com boas práticas de engenharia de software.
+</p>
 
 <br/>
 
-<h2>🔗 Vamos nos conectar?</h2>
+<h2 align="center">⚡ Stack & Ferramentas</h2>
 
-Meus principais canais de comunicação estão disponíveis em: https://josuelustosa.github.io/links/.
+<table align="center">
+  <tr>
+    <td><strong>⚡ Stack Principal</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,androidstudio,apple" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🌐 Web & Front-end</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=js,html,css,vite,vue,angular" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🎨 UI & Estilização</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=tailwind,styledcomponents,materialui,bootstrap,figma" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>⚙️ Back-end & Dados</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=express,java,spring,mysql,postgres" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🚀 DevOps & Workflow</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,docker,azure" />
+    </td>
+  </tr>
+</table>
 
-<br>
+<br/>
 
+<!-- <h2 align="center">🔗 Vamos nos conectar?</h2>
+
+<p align="center">
+  Meus principais canais de comunicação, projetos e redes estão disponíveis em:
+  <a href="https://links-josue-lustosa.vercel.app/">
+    links-josue-lustosa.vercel.app
+  </a>
+</p>
+
+<br/>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=josuelustosa.josuelustosa&left_color=dimgray&right_color=orangered"/>
+</div> -->
+
+<hr />
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=josuelustosa.josuelustosa&left_color=dimgray&right_color=orangered"/>
 </div>
