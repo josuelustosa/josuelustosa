@@ -1,78 +1,138 @@
 <div align="center">
-  <img src="./favicon-josuelustosa.svg" width="90" alt="JL — Josué Lustosa"/>
+  <img
+    src="./favicon-josuelustosa.svg"
+    width="90"
+    alt="JL — Josué Lustosa"
+    style="border-radius: 18px;"
+  />
+  <br />
+  <code>Desenvolvedor de Software - Web & Mobile</code>
 
   <h1>👋 Olá, mundo! Sou o Josué Lustosa...</h1>
 
-  <h2>Desenvolvedor de Software - Web & Mobile</h2>
-
-[![Email](https://img.shields.io/badge/josuelustosa%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:josuelustosa@gmail.com)
-[![Todos os Links](https://img.shields.io/badge/%F0%9F%8C%90%20Todos%20os%20Links-101113?style=for-the-badge)](https://links-josue-lustosa.vercel.app/)
+  [![Email](https://img.shields.io/badge/josuelustosa%40gmail.com-fe5626?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josuelustosa@gmail.com)
+  [![Todos os Links](https://img.shields.io/badge/%F0%9F%8C%90%20Todos%20os%20Links-fe5626?style=for-the-badge)](https://links-josue-lustosa.vercel.app/)
 
 </div>
 
 <p align="center">
-  Desenvolvedor de Software e Bacharel em Sistemas de Informação (2021), com mais de 4 anos de experiência no desenvolvimento de aplicações <strong>Web & Mobile</strong>, com foco em performance, escalabilidade e experiência do usuário.
+  Desenvolvedor de Software e Bacharel em Sistemas de Informação (2021), com mais de 4 anos construindo aplicações <strong>Web & Mobile</strong> focadas em performance, escalabilidade e experiência do usuário.
 </p>
 
 <p align="center">
-  Atuo com <strong>React, Next.js, React Native, TypeScript e Node.js</strong>, com experiência em interfaces componentizadas, integração com <strong>APIs REST</strong> e soluções <strong>Full Stack</strong>. Tenho familiaridade com metodologias ágeis e ambientes colaborativos, contribuindo para a entrega de soluções com boas práticas de engenharia de software.
+  Atuo com <strong>React, Next.js, React Native, TypeScript e Node.js</strong>, desenvolvendo interfaces modernas e funcionais, integrando APIs REST e navegando pelo Full Stack sempre que o produto pede. Em times ágeis, entrego com code review, versionamento consistente e boas práticas de engenharia de software.
 </p>
 
-<br/>
+<p align="center">
+  🎯 Próximo objetivo: Pós-graduação em Engenharia de Software aplicada à IA.
+</p>
 
-<h2 align="center">⚡ Stack & Ferramentas</h2>
+<br />
+
+<h2 align="center">⚡ Stack &amp; Ferramentas</h2>
 
 <table align="center">
   <tr>
-    <td><strong>⚡ Stack Principal</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,androidstudio,apple" />
+    <td align="center" width="220" valign="middle">
+      <img
+        src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f9e0.svg"
+        width="22"
+        align="absmiddle"
+        alt=""
+      />&nbsp;<strong>Stack Principal</strong>
+    </td>
+    <td align="center" valign="middle">
+      <br />
+      <img
+        src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,androidstudio,apple&perline=6"
+        alt="React, Next.js, TypeScript, Node.js, Android, iOS"
+      />
+      <br /><br />
     </td>
   </tr>
+
   <tr>
-    <td><strong>🌐 Web & Front-end</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=js,html,css,vite,vue,angular" />
+    <td align="center" valign="middle">
+      <img
+        src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f310.svg"
+        width="22"
+        align="absmiddle"
+        alt=""
+      />&nbsp;<strong>Web &amp; Front-end</strong>
+    </td>
+    <td align="center" valign="middle">
+      <br />
+      <img
+        src="https://skillicons.dev/icons?i=js,html,css,vite,vue,angular&perline=6"
+        alt="JavaScript, HTML, CSS, Vite, Vue, Angular"
+      />
+      <br /><br />
     </td>
   </tr>
+
   <tr>
-    <td><strong>🎨 UI & Estilização</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=tailwind,styledcomponents,materialui,bootstrap,figma" />
+    <td align="center" valign="middle">
+      <img
+        src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f3a8.svg"
+        width="22"
+        align="absmiddle"
+        alt=""
+      />&nbsp;<strong>UI &amp; Estilização</strong>
+    </td>
+    <td align="center" valign="middle">
+      <br />
+      <img
+        src="https://skillicons.dev/icons?i=tailwind,styledcomponents,materialui,bootstrap,figma&perline=6"
+        alt="Tailwind, Styled Components, Material UI, Bootstrap, Figma"
+      />
+      <br /><br />
     </td>
   </tr>
+
   <tr>
-    <td><strong>⚙️ Back-end & Dados</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=express,java,spring,mysql,postgres" />
+    <td align="center" valign="middle">
+      <img
+        src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2699.svg"
+        width="22"
+        align="absmiddle"
+        alt=""
+      />&nbsp;<strong>Back-end &amp; Dados</strong>
+    </td>
+    <td align="center" valign="middle">
+      <br />
+      <img
+        src="https://skillicons.dev/icons?i=express,java,spring,mysql,postgres&perline=6"
+        alt="Express, Java, Spring, MySQL, PostgreSQL"
+      />
+      <br /><br />
     </td>
   </tr>
+
   <tr>
-    <td><strong>🚀 DevOps & Workflow</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,docker,azure" />
+    <td align="center" valign="middle">
+      <img
+        src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f680.svg"
+        width="22"
+        align="absmiddle"
+        alt=""
+      />&nbsp;<strong>DevOps &amp; Workflow</strong>
+    </td>
+    <td align="center" valign="middle">
+      <br />
+      <img
+        src="https://skillicons.dev/icons?i=linux,git,github,gitlab,docker,azure&perline=6"
+        alt="Linux, Git, GitHub, GitLab, Docker, Azure"
+      />
+      <br /><br />
     </td>
   </tr>
 </table>
 
-<br/>
-
-<!-- <h2 align="center">🔗 Vamos nos conectar?</h2>
-
-<p align="center">
-  Meus principais canais de comunicação, projetos e redes estão disponíveis em:
-  <a href="https://links-josue-lustosa.vercel.app/">
-    links-josue-lustosa.vercel.app
-  </a>
-</p>
-
-<br/>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=josuelustosa.josuelustosa&left_color=dimgray&right_color=orangered"/>
-</div> -->
-
+<br />
 <hr />
+
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=josuelustosa.josuelustosa&left_color=dimgray&right_color=orangered"/>
+  <img
+    src="https://visitor-badge.laobi.icu/badge?page_id=josuelustosa.josuelustosa&left_color=dimgray&right_color=orangered"
+  />
 </div>
