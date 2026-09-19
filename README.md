@@ -5,7 +5,9 @@
     alt="JL — Josué Lustosa"
     style="border-radius: 18px;"
   />
+  
   <br />
+  
   <code>Desenvolvedor de Software - Web & Mobile</code>
 
   <h1>👋 Olá, mundo! Sou o Josué Lustosa...</h1>
@@ -24,7 +26,7 @@
 </p>
 
 <p align="center">
-  🎯 Próximo objetivo: Pós-graduação em Engenharia de Software aplicada à IA.
+  🎯 Próximo passo: Pós-graduação em Engenharia de Software aplicada à IA.
 </p>
 
 <br />
@@ -129,10 +131,11 @@
 </table>
 
 <br />
-<hr />
 
 <div align="center">
   <img
-    src="https://visitor-badge.laobi.icu/badge?page_id=josuelustosa.josuelustosa&left_color=dimgray&right_color=orangered"
+    src="https://visitor-badge.laobi.icu/badge?page_id=josuelustosa.josuelustosa&left_text=VISITANTES&left_color=grey&right_color=%23fe5626"
+    height="28"
+    alt="Visitantes"
   />
 </div>
